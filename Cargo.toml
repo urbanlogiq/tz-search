@@ -15,7 +15,7 @@ Compute the timezone of latitude/longitude pairs.
 
 
 [dependencies]
-byteorder = "0.3"
+byteorder = "1"
 flate2 = "1.0"
 once_cell = "1"
 
